@@ -12,10 +12,10 @@ _Project to run and test new actualizations of the components of the framework, 
 </p>
 
 ## Configure for Local Host 
-For someone like me spend a lot of time in configuration for tha laravel jetstream App and still failed this template is good for you. thanks to <a href="https://github.com/romerojoseing/laravel-jetstream">romerojoseing</a> for making the template and configurations. I also configure this template to be ready made in localhost without running php artisan serve.  
+For someone like me spend a lot of time in configuration for tha laravel jetstream App and still failed this template is good for you. thanks to <a href="https://github.com/romerojoseing/laravel-jetstream">romerojoseing</a> for making the template and configuration. I also configure this template to be ready made in localhost without running php artisan serve.  
 
-<b>"php artisan serve command"</b> will not work.
-please see the original source
+<b>"php artisan serve" command will not work now</b> .
+please see the original source. default configuration
 
 
 <a href="https://github.com/romerojoseing/laravel-jetstream">https://github.com/romerojoseing/laravel-jetstream</a>
